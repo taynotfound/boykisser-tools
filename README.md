@@ -7,5 +7,5 @@ This repository is archived. It now lives in the Boykisser Linux monorepo:
 The full history was carried over, so nothing was lost. Please open issues and
 pull requests there.
 
-New packages are published as \`tools-v*\` releases in the main repo, and
-installed systems update with \`boykisser update\`.
+New packages are published as `tools-v*` releases in the main repo, and
+installed systems update with `boykisser update`.
